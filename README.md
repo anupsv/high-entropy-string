@@ -2,6 +2,10 @@
 
 A library for classifying strings as potential secrets.
 
+## Python language support
+
+This was tested under `2.7.10` and `3.7.4`
+
 ## Installation
 
 ```bash
